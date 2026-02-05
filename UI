@@ -1,0 +1,10 @@
+AnaForm.cs
+LoginForm.cs
+CustomerForm.cs
+ProductForm.cs
+Program.cs
+*.Designer.cs
+*.resx
+App.config
+Properties/
+Resources/
